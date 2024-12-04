@@ -1,0 +1,212 @@
+{
+   "users": {
+      "rezky": {
+         "password": "123456",
+         "tipe_member": "vip",
+         "saldo": 770400.0,
+         "vouchers": [],
+         "pembelian": [
+            [
+               "1 hari renown booster",
+               18000
+            ],
+            [
+               "3 hari renown booster",
+               42000
+            ],
+            [
+               "1 hari renown booster",
+               18000
+            ],
+            [
+               "3 hari renown booster",
+               33600.0
+            ],
+            [
+               "1 hari renown booster",
+               18000
+            ]
+         ]
+      },
+      "youask": {
+         "password": "123456",
+         "tipe_member": "vip",
+         "saldo": 250000,
+         "vouchers": [
+            "WELCOME100"
+         ],
+         "pembelian": []
+      },
+      "rama": {
+         "password": "123456",
+         "tipe_member": "biasa",
+         "saldo": 4940000,
+         "vouchers": [
+            "WELCOME100"
+         ],
+         "pembelian": [
+            [
+               "7 hari renown booster",
+               80000
+            ],
+            [
+               "7 hari renown booster",
+               80000
+            ]
+         ],
+         "locked": false
+      },
+      "mocha": {
+         "password": "123456",
+         "tipe_member": "biasa",
+         "saldo": 4750000,
+         "vouchers": [
+            "WELCOME100"
+         ],
+         "pembelian": []
+      },
+      "daffa": {
+         "password": "123456",
+         "tipe_member": "biasa",
+         "saldo": 1669400.0,
+         "vouchers": [
+            "WELCOME100"
+         ],
+         "pembelian": [
+            [
+               "3 hari renown booster",
+               33600.0
+            ]
+         ],
+         "locked": false
+      },
+      "desta": {
+         "password": "123456",
+         "tipe_member": "vip",
+         "saldo": 458000.0,
+         "vouchers": [
+            "VIP100"
+         ],
+         "pembelian": [
+            [
+               "1 hari renown booster",
+               18000
+            ],
+            [
+               "7 hari renown booster",
+               64000.0
+            ],
+            [
+               "Skin Rod Reel",
+               210000.0
+            ]
+         ],
+         "locked": false
+      }
+   },
+   "items": {
+      "Pagi": {
+         "1": [
+            "1 hari renown booster",
+            18000
+         ],
+         "2": [
+            "3 hari renown booster",
+            42000
+         ],
+         "3": [
+            "600 R6 Credits",
+            50000
+         ],
+         "4": [
+            "1200 R6 Credits",
+            100000
+         ],
+         "5": [
+            "Skin Amazonia",
+            600000
+         ],
+         "6": [
+            "Skin Piranha",
+            650000
+         ],
+         "7": [
+            "Skin Skull Rain",
+            650000
+         ]
+      },
+      "Siang": {
+         "1": [
+            "7 hari renown booster",
+            80000
+         ],
+         "2": [
+            "30 hari renown booster",
+            210000
+         ],
+         "3": [
+            "2670 R6 Credits",
+            200000
+         ],
+         "4": [
+            "4920 R6 Credits",
+            350000
+         ],
+         "5": [
+            "Skin Clean Shot",
+            240000
+         ],
+         "6": [
+            "Skin Rod Reel",
+            300000
+         ],
+         "7": [
+            "Skin La Clave",
+            720000
+         ]
+      },
+      "Malam": {
+         "1": [
+            "90 hari renown booster",
+            630000
+         ],
+         "2": [
+            "7560 R6 Credits",
+            500000
+         ],
+         "3": [
+            "16000 R6 Credits",
+            1000000
+         ],
+         "4": [
+            "Skin Aki No Tsuru",
+            650000
+         ],
+         "5": [
+            "Skin Toolbox",
+            720000
+         ],
+         "6": [
+            "Skin Black Ice",
+            1200000
+         ]
+      }
+   },
+   "vouchers": {
+      "WELCOME100": {
+         "diskon": 20,
+         "valid_sampai": "2024-12-31",
+         "banyak_pemakaian": 1
+      },
+      "VIP100": {
+         "diskon": 20,
+         "valid_sampai": "2024-12-31",
+         "banyak_pemakaian": 1
+      },
+      "VIP200": {
+         "diskon": 30,
+         "valid_sampai": "2024-12-31",
+         "banyak_pemakaian": 1
+      }
+   }
+}
